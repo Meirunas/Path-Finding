@@ -1,10 +1,5 @@
 import java.util.Scanner;
 
-/*************************************************************************
- *  Author: Dr E Kapetanios adjusted by @lxndroc
- *  Last update: 18-09-2019
- *************************************************************************/
-
 public class PathFindingOnSquaredGrid {
     private static boolean[][] randomlyGenMatrix;
     private static int Ai, Aj, Bi, Bj;

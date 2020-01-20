@@ -18,12 +18,4 @@ public class Graph {
     			+ "\nDistance=" + endNode.getDistance();
     	return output;
     }
-
-    /*@Override
-    public String toString() {
-    	String output = "";
-    	for(Node node: nodes)
-    		output += node.getName() + "-";
-    	return output;
-    }*/
 }
